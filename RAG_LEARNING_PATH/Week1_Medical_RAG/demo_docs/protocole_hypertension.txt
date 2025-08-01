@@ -1,0 +1,131 @@
+PROTOCOLE DE PRISE EN CHARGE DE L'HYPERTENSION ARTÉRIELLE
+=========================================================
+Service de Médecine Interne - Mise à jour: Janvier 2024
+
+DÉFINITION ET CLASSIFICATION
+----------------------------
+L'hypertension artérielle (HTA) est définie par:
+- PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg
+- Mesurée au cabinet médical, à 2 consultations différentes
+- Avec 3 mesures par consultation
+
+Classification:
+- HTA Grade 1: 140-159/90-99 mmHg
+- HTA Grade 2: 160-179/100-109 mmHg  
+- HTA Grade 3: ≥180/≥110 mmHg
+
+BILAN INITIAL
+-------------
+Interrogatoire:
+- Antécédents familiaux d'HTA, AVC, cardiopathie
+- Facteurs de risque cardiovasculaire
+- Consommation sel, alcool, réglisse
+- Médicaments (AINS, corticoïdes, contraception)
+- Symptômes d'atteinte d'organe cible
+
+Examen clinique:
+- Mesure TA aux 2 bras
+- Poids, taille, IMC, tour de taille
+- Auscultation cardiaque et vasculaire
+- Palpation pouls périphériques
+- Recherche œdèmes
+
+Examens complémentaires:
+- Biologie: Créatinine, DFG, K+, glycémie, bilan lipidique
+- Bandelette urinaire: protéinurie, hématurie
+- ECG de repos
+- Si indiqué: échographie cardiaque, doppler artériel
+
+STRATÉGIE THÉRAPEUTIQUE
+-----------------------
+
+1. Mesures hygiéno-diététiques (tous les patients):
+   - Réduction pondérale si surpoids (objectif IMC <25)
+   - Activité physique: 30 min/jour, 5 jours/semaine
+   - Régime hyposodé: <6g sel/jour
+   - Limitation alcool: <2 verres/jour homme, <1 femme
+   - Arrêt tabac impératif
+   - Gestion du stress
+
+2. Traitement médicamenteux:
+
+Initiation si:
+- HTA Grade 2 ou 3
+- HTA Grade 1 avec RCV élevé
+- HTA Grade 1 persistante après 3-6 mois MHD
+
+Choix thérapeutique première ligne:
+- IEC ou ARA2 (surtout si diabète, néphropathie)
+- Inhibiteur calcique (sujet âgé, sujet noir)
+- Diurétique thiazidique
+- Bêtabloquant (si cardiopathie associée)
+
+Stratégie:
+- Monothérapie initiale à dose modérée
+- Si objectif non atteint à 4 semaines: augmenter dose
+- Si échec monothérapie max: bithérapie
+- Associations recommandées:
+  * IEC/ARA2 + diurétique
+  * IEC/ARA2 + inhibiteur calcique
+  * Inhibiteur calcique + diurétique
+
+OBJECTIFS TENSIONNELS
+---------------------
+Population générale: <140/90 mmHg
+
+Situations particulières:
+- Diabétique: <130/80 mmHg
+- Insuffisant rénal chronique: <130/80 mmHg
+- Sujet >80 ans: PAS 140-150 mmHg
+- Post-AVC: <140/90 mmHg
+
+SUIVI
+-----
+Fréquence:
+- Phase initiale: Toutes les 2-4 semaines
+- Une fois équilibré: Tous les 3-6 mois
+- Bilan annuel complet
+
+Surveillance:
+- Efficacité: TA, observance
+- Tolérance: effets secondaires
+- Retentissement: créatinine, K+, ECG
+- RCV global: poids, glycémie, lipides
+
+COMPLICATIONS À RECHERCHER
+--------------------------
+- Cardiaques: HVG, insuffisance cardiaque, coronaropathie
+- Cérébrales: AVC, AIT, démence vasculaire
+- Rénales: Néphropathie, insuffisance rénale
+- Vasculaires: AOMI, anévrisme aortique
+- Oculaires: Rétinopathie hypertensive
+
+SITUATIONS D'URGENCE
+--------------------
+Urgence hypertensive (avec souffrance viscérale):
+- TA >180/120 mmHg + atteinte organe
+- Hospitalisation immédiate
+- Traitement IV (nicardipine, urapidil)
+- Réduction progressive 25% en 1h
+
+Poussée hypertensive simple:
+- TA élevée sans souffrance viscérale
+- Repos, anxiolytique si besoin
+- Adaptation traitement per os
+- Contrôle à 24-48h
+
+ÉDUCATION THÉRAPEUTIQUE
+-----------------------
+Points clés à expliquer:
+- Maladie chronique, traitement à vie
+- Importance observance même si asymptomatique
+- Automesure tensionnelle à domicile
+- Reconnaissance signes d'alerte
+- Gestion effets secondaires
+- Mesures hygiéno-diététiques essentielles
+
+RÉFÉRENCES
+----------
+- ESC/ESH 2023 Guidelines
+- HAS 2023 - Prise en charge HTA
+- SFHTA - Recommandations 2023

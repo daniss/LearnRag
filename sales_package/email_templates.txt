@@ -1,0 +1,176 @@
+============================================================
+📧 TEMPLATES EMAIL - ASSISTANT JURIDIQUE IA
+============================================================
+
+📋 INITIAL_OUTREACH
+----------------------------------------
+
+Objet: Cabinet {firm_name} - 70% moins de temps sur la recherche juridique
+
+Bonjour {first_name},
+
+J'ai remarqué que votre cabinet {firm_name} traite beaucoup de dossiers {specialty}.
+
+Question rapide : combien d'heures par semaine votre équipe passe-t-elle à chercher des précédents dans vos archives papier et numériques ?
+
+Notre Assistant Juridique IA peut réduire ce temps de 70% en trouvant instantanément les bonnes réponses avec citations exactes.
+
+✅ Spécialisé droit français
+✅ Réponses avec sources citées
+✅ 100% conforme RGPD
+✅ Installation en 24h
+
+Intéressé par une démo de 15 minutes cette semaine ?
+
+Cordialement,
+{sender_name}
+{sender_title}
+
+P.S. Garantie satisfait ou remboursé - comme le Cabinet {reference_firm} de {city} qui économise déjà 15h/semaine.
+
+📧 {email}
+📱 {phone}
+        
+
+📋 FOLLOW_UP_1
+----------------------------------------
+
+Objet: Suivi - [URGENT] Cabinet {firm_name} perd-il 3h/jour ?
+
+Bonjour {first_name},
+
+Je vous avais contacté concernant notre Assistant Juridique IA qui fait gagner 15h/semaine aux cabinets.
+
+Nouvelle mise à jour : un cabinet de {city} vient de calculer €1,200/mois d'économies en temps de recherche grâce à notre outil.
+
+Détails de leur cas :
+• 3 associés, 8 collaborateurs
+• Spécialité : {specialty}
+• ROI : 280% en 4 mois
+• Temps économisé : 18h/semaine
+
+Toujours intéressé par une démo ?
+
+Répondez simplement par "OUI" et je vous envoie le lien Calendly.
+
+{sender_name}
+        
+
+📋 DEMO_BOOKING
+----------------------------------------
+
+Objet: [DERNIÈRE CHANCE] 3 créneaux démo restants cette semaine
+
+Bonjour {first_name},
+
+Seulement 3 places restantes cette semaine pour notre démo exclusive Assistant Juridique IA.
+
+Ce que vous verrez en 15 minutes :
+✓ Analyse instantanée de VOS vrais contrats
+✓ Réponses précises avec sources citées françaises
+✓ Calcul ROI personnalisé pour {firm_name}
+✓ Démonstration live sur vos documents
+
+Créneaux disponibles :
+• Mardi 14h-14h15
+• Mercredi 10h-10h15  
+• Jeudi 16h-16h15
+
+Réservez maintenant : [CALENDLY_LINK]
+
+Après la démo, vous repartirez avec :
+📊 Audit gratuit de vos processus de recherche
+💰 Calcul précis de vos économies potentielles
+🎁 Guide "10 Astuces IA pour Avocats" (valeur €200)
+
+À bientôt,
+{sender_name}
+        
+
+📋 POST_DEMO_CLOSE
+----------------------------------------
+
+Objet: Merci pour la démo - Proposition {firm_name}
+
+Bonjour {first_name},
+
+Merci pour votre temps lors de notre démonstration.
+
+Comme promis, voici votre proposition personnalisée :
+
+**OFFRE SPÉCIALE CABINET {firm_name}**
+🎯 Pack Starter Premium
+• Installation : €2,500 (au lieu de €5,000) - 50% de réduction
+• Abonnement : €1,500/mois (engagement 12 mois)
+• Formation équipe : GRATUITE (valeur €800)
+• Support prioritaire : 3 mois OFFERTS
+
+**ROI CALCULÉ POUR VOTRE CABINET :**
+• Temps économisé : 15h/semaine
+• Économies annuelles : €15,600
+• Retour sur investissement : 3 mois
+
+**BONUS SI SIGNATURE AVANT VENDREDI :**
+• 2ème mois GRATUIT
+• Migration données GRATUITE
+• Audit sécurité OFFERT
+
+Questions ? Appelez-moi directement : {phone}
+
+Prêt à révolutionner {firm_name} ?
+
+{sender_name}
+        
+
+📋 OBJECTION_HANDLING
+----------------------------------------
+
+prix_trop_cher:
+
+Je comprends votre préoccupation sur le prix.
+
+Regardons les chiffres :
+• Coût actuel recherche : 15h × €80/h = €1,200/semaine
+• Coût annuel actuel : €62,400
+• Coût Assistant IA : €18,000/an
+• Économies nettes : €44,400/an
+
+Le "coût" réel c'est de ne PAS l'avoir.
+
+Cabinet Martin (Lyon) : "On aurait dû le faire plus tôt, on a perdu €30,000 en productivité l'année dernière."
+            
+
+
+besoin_reflexion:
+
+Bien sûr, c'est une décision importante.
+
+Pendant votre réflexion, vos concurrents avancent :
+• Cabinet Durand : 20% de productivité en plus
+• SCP Martin : 3 nouveaux clients grâce au temps libéré
+• Avocats & Associés : Facturation +15% avec même équipe
+
+Question : dans 6 mois, voulez-vous être celui qui a saisi l'opportunité ou celui qui la regarde passer ?
+
+Rendez-vous téléphonique de 10 minutes pour clarifier vos questions ?
+            
+
+
+deja_solution:
+
+Excellent ! Quelle solution utilisez-vous actuellement ?
+
+La plupart de nos clients venaient de :
+• LexisNexis (pas adapté droit français)
+• Doctrine (pas d'IA contextuelle)  
+• Solutions internes (limitées)
+
+Nos avantages uniques :
+✅ 100% spécialisé droit français
+✅ IA entraînée sur jurisprudence française
+✅ Intégration vos documents internes
+✅ Support expert juridique français
+
+Comparaison rapide de 15 minutes ?
+            
+

@@ -1,0 +1,39 @@
+============================================================
+💰 GRILLE TARIFAIRE - ASSISTANT JURIDIQUE IA
+============================================================
+
+🏷️ STARTER
+------------------------------
+Installation : €5000
+Mensuel : €1500
+Documents max : 1000
+Support : Email
+Fonctionnalités :
+  ✅ Document analysis
+  ✅ Basic search
+  ✅ PDF export
+
+🏷️ PROFESSIONAL
+------------------------------
+Installation : €8000
+Mensuel : €2500
+Documents max : 5000
+Support : Phone + Email
+Fonctionnalités :
+  ✅ All Starter features
+  ✅ Custom integration
+  ✅ Advanced analytics
+  ✅ Team training
+
+🏷️ ENTERPRISE
+------------------------------
+Installation : €Sur devis
+Mensuel : €Sur devis
+Documents max : Illimités
+Support : Dedicated account manager
+Fonctionnalités :
+  ✅ All Professional features
+  ✅ API access
+  ✅ Custom development
+  ✅ SLA guarantee
+

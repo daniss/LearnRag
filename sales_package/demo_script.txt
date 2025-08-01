@@ -1,0 +1,155 @@
+
+========================================================
+🎯 SCRIPT DE DÉMONSTRATION - ASSISTANT JURIDIQUE IA
+========================================================
+
+DURÉE : 15 minutes
+OBJECTIF : Fermer la vente ou obtenir engagement ferme
+
+📋 CHECKLIST PRE-DÉMO :
+□ Documents clients chargés
+□ Calcul ROI personnalisé préparé  
+□ Références clients du même secteur
+□ Proposition commerciale prête
+□ Calendrier signature disponible
+
+========================================================
+⏰ PHASE 1 : ACCROCHE (2 minutes)
+========================================================
+
+"Bonjour {prénom}, merci de me consacrer 15 minutes.
+
+Dans le secteur juridique, 73% du temps est perdu en recherche documentaire.
+Votre cabinet {nom_cabinet} traite {nb_dossiers} dossiers/mois, c'est environ {heures_perdues}h de recherche pure.
+
+Aujourd'hui, je vais vous montrer comment diviser ce temps par 10.
+
+➡️ Première question : combien de temps votre équipe passe-t-elle par jour à chercher des précédents ?"
+
+[ATTENDRE LA RÉPONSE - NOTER LE CHIFFRE]
+
+"Parfait. Gardez ce chiffre en tête, on va le transformer en euros économisés."
+
+========================================================
+⏰ PHASE 2 : PROBLÈME (3 minutes)  
+========================================================
+
+"Laissez-moi deviner vos frustrations quotidiennes :
+
+🔍 'Où est ce jugement de 2019 sur les baux commerciaux ?'
+📄 'Il me faut 2h pour trouver cette jurisprudence'
+⏰ 'On refait toujours les mêmes recherches'
+💰 'Temps perdu = client facturé moins = marge réduite'
+
+C'est ça ?"
+
+[LAISSER CONFIRMER]
+
+"Le problème : vos archives sont dispersées, non-connectées, et impossible à interroger intelligemment.
+
+Résultat : {heures_perdues}h × {taux_horaire}€ = {coût_semaine}€ perdus par SEMAINE.
+Sur l'année : {coût_annuel}€ qui s'évaporent."
+
+========================================================  
+⏰ PHASE 3 : DÉMONSTRATION (8 minutes)
+========================================================
+
+"Maintenant regardez ça. Je vais utiliser VOS documents réels."
+
+🎬 DÉMO LIVE :
+1. "Glissez-déposez vos 20 derniers contrats"
+   [UPLOADER LES DOCS CLIENTS]
+   
+2. "Question complexe : 'Quelles sont les clauses résolutoires dans mes baux commerciaux avec délai inférieur à 60 jours ?'"
+   [TAPER LA REQUÊTE]
+   
+3. "Résultat en... 12 secondes. Avec sources exactes."
+   [MONTRER LA RÉPONSE + CITATIONS]
+   
+4. "Même exercice : 'Jurisprudences Cour de Cassation 2023 sur résiliation anticipée'"
+   [NOUVELLE RECHERCHE - RÉSULTAT IMMÉDIAT]
+
+"Temps traditionnel pour ces 2 recherches : 2h30
+Temps avec Assistant IA : 45 secondes
+Gain : 97%"
+
+"Questions sur la démo ?"
+
+========================================================
+⏰ PHASE 4 : ROI & BÉNÉFICES (1 minute)
+========================================================
+
+"Calcul personnalisé {nom_cabinet} :
+
+💰 ÉCONOMIES ANNUELLES :
+• Temps économisé : {heures_semaine}h/semaine  
+• Valeur horaire : {taux_horaire}€
+• Économies annuelles : {economies_annuelles}€
+
+🚀 BÉNÉFICES ADDITIONNELS :
+• Réponses plus précises = clients satisfaits
+• Temps libéré = nouveaux dossiers  
+• Équipe motivée = moins de turnover
+• Image innovante = avantage concurrentiel
+
+ROI : {pourcentage_roi}% en {nb_mois} mois"
+
+========================================================
+⏰ PHASE 5 : FERMETURE (1 minute)
+========================================================
+
+"Questions : avez-vous vu autre chose d'aussi puissant ?"
+[ATTENDRE NON]
+
+"Parfait. Deux options pour {nom_cabinet} :
+
+OPTION 1 - Pack Starter : €5,000 installation + €1,500/mois
+OPTION 2 - Pack Pro : €8,000 installation + €2,500/mois  
+
+Lequel correspond mieux à vos besoins ?"
+
+[SI HÉSITATION] 
+"Je vous propose ceci : signature aujourd'hui = 50% sur l'installation + 1er mois offert.
+
+Vous économisez {economie_immediate}€ et commencez dès lundi.
+
+Marché conclu ?"
+
+========================================================
+🚨 GESTION DES OBJECTIONS
+========================================================
+
+❓ "C'est cher"
+➡️ "Cher comparé à quoi ? Perdre {coût_annuel}€/an en inefficacité ?"
+
+❓ "Il faut que j'en parle"  
+➡️ "Bien sûr. À qui ? Je peux les avoir au téléphone maintenant ?"
+
+❓ "On a déjà une solution"
+➡️ "Parfait ! Elle fait ça ?" [RE-DÉMONSTRATION]
+
+❓ "Pas maintenant"
+➡️ "Quand exactement ? Calendrier septembre ?" [SORTIR L'AGENDA]
+
+========================================================
+✅ CHECKLIST CLOSING
+========================================================
+
+□ Décision prise (OUI/NON/QUAND)
+□ Budget confirmé  
+□ Processus de décision clarifié
+□ Prochaine étape programmée
+□ Contrat envoyé si signature
+□ Suivi dans CRM
+
+========================================================
+📊 RÉSULTATS ATTENDUS
+========================================================
+
+• Taux de fermeture : 20-25%
+• Durée cycle vente : 2-3 semaines
+• Panier moyen : €25,000 première année
+• Récurrence : 95%+ après 6 mois
+
+========================================================
+    

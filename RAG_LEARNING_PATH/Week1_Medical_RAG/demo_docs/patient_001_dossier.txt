@@ -1,0 +1,118 @@
+DOSSIER MÉDICAL - PATIENT 001
+=============================
+
+INFORMATIONS PATIENT
+-------------------
+Code Patient: P001
+Âge: 58 ans
+Sexe: M
+Médecin traitant: Dr. Martin
+
+ANTÉCÉDENTS MÉDICAUX
+-------------------
+Familiaux:
+- Père: Infarctus du myocarde à 65 ans
+- Mère: Diabète type 2, HTA
+- Frère: Hypercholestérolémie
+
+Personnels:
+- 2019: Diagnostic HTA (Hypertension artérielle)
+- 2021: Diagnostic Diabète type 2
+- 2022: Surpoids (IMC 29)
+- Tabagisme sevré en 2020 (20 PA)
+- Pas d'allergie connue
+
+CONSULTATIONS RÉCENTES
+----------------------
+
+Date: 15/03/2024
+Type: Consultation de suivi
+Motif: Contrôle HTA et diabète
+
+Examen clinique:
+- Poids: 85 kg
+- Taille: 175 cm  
+- IMC: 27.8
+- TA: 160/95 mmHg (élevée)
+- FC: 78 bpm
+- Glycémie capillaire: 1.8 g/L
+
+Auscultation:
+- Cœur: Rythme régulier, pas de souffle
+- Poumons: Murmure vésiculaire normal
+- Abdomen: Souple, indolore
+
+Diagnostic:
+- HTA non équilibrée malgré traitement
+- Diabète type 2 déséquilibré
+
+Plan thérapeutique:
+- Augmentation Amlodipine de 5mg à 10mg/jour
+- Maintien Metformine 1000mg x 2/jour
+- Ajout IEC si TA toujours élevée au prochain contrôle
+- Renforcement mesures hygiéno-diététiques
+- Activité physique 30 min/jour recommandée
+
+Prochain RDV: 15/04/2024
+
+---
+
+Date: 10/01/2024
+Type: Bilan biologique
+
+Résultats:
+- Glycémie à jeun: 1.65 g/L (N: 0.70-1.10)
+- HbA1c: 7.8% (objectif <7%)
+- Cholestérol total: 2.4 g/L (N: <2.0)
+- LDL: 1.5 g/L (N: <1.3)
+- HDL: 0.35 g/L (N: >0.40)
+- Triglycérides: 2.8 g/L (N: <1.5)
+- Créatinine: 12 mg/L (N: 7-13)
+- DFG: 75 mL/min (N: >90)
+- Microalbuminurie: 45 mg/24h (N: <30)
+
+Interprétation:
+- Diabète déséquilibré
+- Dyslipidémie mixte
+- Début de néphropathie diabétique
+
+---
+
+Date: 15/11/2023
+Type: Consultation cardiologie
+
+Motif: Bilan cardiovasculaire (patient à risque)
+
+Examens réalisés:
+- ECG: Rythme sinusal, pas d'anomalie
+- Échographie cardiaque: FE 60%, pas de trouble cinétique
+- Épreuve d'effort: Négative, bonne capacité fonctionnelle
+
+Conclusion:
+- Pas de cardiopathie décelable
+- Poursuite prévention primaire
+- Contrôle annuel recommandé
+
+TRAITEMENTS ACTUELS
+-------------------
+1. Amlodipine 10mg - 1cp/jour (anti-HTA)
+2. Metformine 1000mg - 1cp matin et soir (antidiabétique)
+3. Atorvastatine 20mg - 1cp/soir (hypolipémiant)
+4. Aspirine 75mg - 1cp/jour (antiagrégant)
+
+ALLERGIES
+---------
+Aucune allergie médicamenteuse connue
+
+VACCINATIONS
+------------
+- DTP: À jour
+- Grippe: Octobre 2023
+- COVID-19: Schéma complet + rappel 2023
+
+NOTES IMPORTANTES
+-----------------
+- Patient observant
+- Suivi régulier nécessaire (HTA + Diabète)
+- Éducation thérapeutique diabète prévue
+- Surveillance fonction rénale (microalbuminurie)

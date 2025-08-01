@@ -1,0 +1,215 @@
+EMAIL TEMPLATES - ASSISTANT MÉDICAL IA
+======================================
+
+📧 TEMPLATE 1: FIRST CONTACT - PAIN POINT
+-----------------------------------------
+Objet: Dr. [Nom] - Gagnez 2h/jour sur la recherche dans les dossiers patients
+
+Bonjour Dr. [Nom],
+
+Une question rapide : combien de fois par jour devez-vous chercher un antécédent médical spécifique dans vos dossiers patients ?
+
+La plupart des médecins nous disent perdre 15-20 minutes par recherche.
+
+Notre Assistant Médical IA permet aux cliniques comme [Clinique Similaire à Lyon] de :
+✓ Retrouver n'importe quel antécédent en 30 secondes
+✓ Croiser instantanément les données de tous les patients  
+✓ Générer des synthèses automatiques
+
+Dr. Martin (Clinique des Alpes) : "J'ai gagné 2h par jour, c'est révolutionnaire"
+
+Intéressé par une démo de 15 minutes cette semaine ?
+
+Cordialement,
+[Votre nom]
+[Titre]
+[Téléphone]
+
+P.S. Garantie satisfait ou remboursé 30 jours
+
+
+📧 TEMPLATE 2: FOLLOW-UP - SOCIAL PROOF
+---------------------------------------
+Objet: Suivi - 3 cliniques à [Ville] utilisent déjà l'IA médicale
+
+Bonjour Dr. [Nom],
+
+Je vous avais contacté la semaine dernière concernant notre Assistant Médical IA.
+
+Depuis, 3 nouvelles cliniques à [Ville] ont adopté notre solution :
+- Clinique Saint-Martin : "15h/semaine économisées"
+- Centre Médical du Parc : "ROI en 2 mois"
+- Cabinet des Docteurs Associés : "Enfin une vraie solution"
+
+Cette semaine, j'ai encore 2 créneaux pour une démo :
+• Mardi 14h-14h15
+• Jeudi 10h-10h15
+
+Quel créneau vous convient ?
+
+Cordialement,
+[Votre nom]
+
+
+📧 TEMPLATE 3: URGENCY - LIMITED AVAILABILITY
+--------------------------------------------
+Objet: [URGENT] Plus que 2 places en février pour l'Assistant Médical IA
+
+Bonjour Dr. [Nom],
+
+Nous limitons nos installations à 5 cliniques par mois pour garantir un support optimal.
+
+Pour février, il ne reste que 2 places :
+✅ Clinique Pasteur (Marseille) - confirmé
+✅ Centre Médical Lyon Nord - confirmé  
+✅ Cabinet Dr. Dubois (Nice) - confirmé
+⏳ 2 places disponibles
+
+Avantages exclusifs février :
+• -50% sur l'installation (€4,000 au lieu de €8,000)
+• Formation équipe offerte
+• 1er mois gratuit
+
+Réservez votre créneau démo : [CALENDLY_LINK]
+
+Cordialement,
+[Votre nom]
+
+P.S. Les cliniques qui attendent perdent en moyenne €1,500/mois en productivité
+
+
+📧 TEMPLATE 4: CASE STUDY - SPECIFIC RESULTS
+-------------------------------------------
+Objet: Comment la Clinique Saint-Joseph économise €18,000/an avec l'IA
+
+Bonjour Dr. [Nom],
+
+Cas concret : Clinique Saint-Joseph (Toulouse)
+• 8 médecins, 12 paramédicaux
+• Problème : 3h/jour perdues en recherche dossiers
+
+Résultats après 3 mois :
+✓ Temps recherche : 3h → 20 minutes (-89%)
+✓ Consultations supplémentaires : +12/semaine
+✓ Revenus additionnels : €18,000/an
+✓ ROI : 320%
+
+Leur secret ? Notre Assistant Médical IA.
+
+15 minutes pour voir comment ça marche ?
+
+Cordialement,
+[Votre nom]
+
+
+📧 TEMPLATE 5: POST-DEMO FOLLOW-UP
+----------------------------------
+Objet: Suite démo - Proposition personnalisée Clinique [Nom]
+
+Bonjour Dr. [Nom],
+
+Merci pour votre temps lors de notre démonstration.
+
+Comme promis, voici votre proposition personnalisée :
+
+SOLUTION ASSISTANT MÉDICAL IA - CLINIQUE [NOM]
+----------------------------------------------
+Configuration : [X] médecins, [Y] dossiers patients
+
+Investment:
+• Installation & paramétrage : €8,000 (€4,000 ce mois)
+• Abonnement mensuel : €2,000
+• Formation équipe : OFFERTE
+
+Économies calculées:
+• Temps gagné : 2.5h/médecin/jour
+• Valeur : €250/jour × 20 jours = €5,000/mois
+• ROI : 150% dès le 2ème mois
+
+Garanties:
+✓ Satisfait ou remboursé 30 jours
+✓ Support prioritaire 6 mois
+✓ Mises à jour incluses
+
+Pour confirmer : répondez "OK" à cet email
+
+Questions ? Appelez-moi : [Téléphone]
+
+Cordialement,
+[Votre nom]
+
+
+📧 TEMPLATE 6: OBJECTION HANDLING - PRICE
+-----------------------------------------
+Objet: Re: C'est trop cher
+
+Bonjour Dr. [Nom],
+
+Je comprends votre préoccupation sur le prix.
+
+Faisons le calcul ensemble :
+• Coût actuel : 2h/jour recherche × €100/h = €200/jour
+• Sur un mois : €200 × 20 jours = €4,000 perdus
+• Sur un an : €48,000 de temps non-facturé
+
+Notre solution : €2,000/mois
+Économies nettes : €2,000/mois minimum
+
+Le vrai coût, c'est de continuer sans.
+
+Puis-je vous montrer le calcul exact pour votre clinique ?
+
+Cordialement,
+[Votre nom]
+
+
+📧 TEMPLATE 7: REFERRAL REQUEST
+-------------------------------
+Objet: Dr. [Nom] - Merci ! + Une faveur
+
+Bonjour Dr. [Nom],
+
+Ravi que l'Assistant Médical IA vous fasse gagner [X]h par semaine !
+
+Une petite faveur : connaissez-vous 2-3 confrères qui pourraient aussi bénéficier de cette solution ?
+
+Pour chaque recommandation qui devient client :
+• 1 mois gratuit pour vous
+• -25% pour votre confrère
+
+Qui me recommandez-vous ?
+
+Merci d'avance,
+[Votre nom]
+
+
+==============================================
+CONSEILS D'UTILISATION
+==============================================
+
+1. PERSONNALISATION OBLIGATOIRE
+   - Toujours adapter avec nom exact
+   - Mentionner ville/région
+   - Référencer cliniques locales
+
+2. TIMING OPTIMAL
+   - Lundi-Mardi : Meilleur taux d'ouverture
+   - 8h-9h ou 13h-14h : Médecins disponibles
+   - Éviter vendredi après-midi
+
+3. SÉQUENCE RECOMMANDÉE
+   - Email 1 : Premier contact
+   - Email 2 : Relance à J+3
+   - Email 3 : Urgence à J+7
+   - Email 4 : Case study à J+10
+
+4. MÉTRIQUES CIBLES
+   - Taux ouverture : 30%+
+   - Taux réponse : 5%+
+   - Taux démo : 2%+
+   - Taux conversion : 25% des démos
+
+5. A/B TESTING
+   - Tester objets différents
+   - Varier les horaires d'envoi
+   - Adapter selon spécialité médicale
