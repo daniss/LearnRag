@@ -13,31 +13,40 @@
 
 ## 📅 Day-by-Day Building Plan (Week 2)
 
-### **Day 8-9: Advanced RAG Features**
+### **Day 8-9: Advanced RAG Features** ⏱️ **Total: 7 hours**
 
-**Day 8 Morning: Hybrid Search Implementation (2h)**
+**🌅 Day 8 Morning: Hybrid Search Implementation** *(2 hours)*
 ```python
 # Building on Week 1, add:
-1. Keyword search (BM25) for legal references
-2. Semantic search for context understanding
-3. Hybrid ranking algorithm
-4. Metadata filtering (date, property type, location)
+1. Keyword search (BM25) for legal references - 30 min
+2. Semantic search for context understanding - 30 min  
+3. Hybrid ranking algorithm - 45 min
+4. Metadata filtering (date, property type, location) - 15 min
 ```
+**✅ Checkpoint:** Hybrid search working, finds legal refs better than Week 1
 
-**Day 8 Afternoon: Multi-Document Reasoning (2h)**
+**🌞 Day 8 Afternoon: Multi-Document Reasoning** *(2 hours)*
 ```python
 # New skills:
-1. Cross-reference property docs with regulations
-2. Contradiction detection
-3. Compliance scoring algorithm
-4. Risk assessment matrix
+1. Cross-reference property docs with regulations - 45 min
+2. Contradiction detection - 30 min
+3. Compliance scoring algorithm - 30 min
+4. Risk assessment matrix - 15 min
 ```
+**✅ Checkpoint:** Can detect contradictions between documents
 
-**Day 9: Legal Citation System (3h)**
-- Extract legal references automatically
-- Link to source documents
-- Generate compliance reports
-- Citation formatting (French legal style)
+**📅 Day 9: Legal Citation System** *(3 hours)*
+- Extract legal references automatically *(75 min)*
+- Link to source documents *(45 min)*
+- Generate compliance reports *(45 min)*
+- Citation formatting (French legal style) *(15 min)*
+
+**✅ Daily Checklist:**
+- [ ] Hybrid search operational
+- [ ] Multi-document analysis working
+- [ ] Legal citations extracted properly
+- [ ] Compliance reports generated
+- [ ] Performance still under 2 seconds
 
 ### **Day 10-11: Real Estate Specific Features**
 
